@@ -1,5 +1,9 @@
 ## Custom Video Player
 
+https://kaiyuncheng.github.io/videoPlayer
+
+![](img/videoplayer.png)
+
 Custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
 ## Project Specifications
